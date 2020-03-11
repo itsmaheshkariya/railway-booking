@@ -1,0 +1,17 @@
+.logo {
+    color: #fff;
+    font-family: 'Pacifico', cursive;
+    font-size: 2em;
+  }
+  .menu-item {
+    color: #fff;
+    font-family: 'Pacifico', cursive;
+    font-size: 1.3em;
+  }
+  #container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+  }
